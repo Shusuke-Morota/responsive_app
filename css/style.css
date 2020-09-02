@@ -84,5 +84,9 @@ header h1 {
     content: " ";
     display: table;
     clear: both;
+}
 
+a {
+    color: #666;
+    text-decoration: none;
 }
